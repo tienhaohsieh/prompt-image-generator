@@ -22,3 +22,4 @@ https://www.kaggle.com/code/andradaolteanu/img2text-image-generator-using-diffus
 * transformers
 
 ### Example
+![image](https://github.com/tienhaohsieh/prompt-image-generator/blob/master/generatorImage.png)
